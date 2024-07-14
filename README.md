@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @moinulhasan69
 - 👀 I’m interested in programming and Graphic Designing
-- 🌱 I’m currently learning python , graphic design
+- 🌱 I’m currently learning Java , graphic design
 - 💞️ I’m looking to collaborate on programmer
 - 📫 How to reach me on FB, Whatsapp, LinkedIn
 
